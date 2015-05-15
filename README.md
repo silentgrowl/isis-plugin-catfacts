@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Trigger a random cat fact by typing ```!catfacts``` in chat.
+
+## Links
+
+* [isis-plugin-catfacts on RubyGems](https://rubygems.org/gems/isis-plugin-catfacts)
